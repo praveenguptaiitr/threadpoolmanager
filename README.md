@@ -1,2 +1,2 @@
 # threadpoolmanager
-thread pool manager - usage: ./threadPoolTest &lt;num of threads>
+thread pool manager - usage: ./threadpooltest <num of threads>
